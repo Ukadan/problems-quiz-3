@@ -1,0 +1,10 @@
+C:\Users\Али\Desktop\ballup\ballup\bin\Debug\ballup.exe.config
+C:\Users\Али\Desktop\ballup\ballup\bin\Debug\ballup.exe
+C:\Users\Али\Desktop\ballup\ballup\bin\Debug\ballup.pdb
+C:\Users\Али\Desktop\ballup\ballup\obj\Debug\ballup.csprojAssemblyReference.cache
+C:\Users\Али\Desktop\ballup\ballup\obj\Debug\ballup.Form1.resources
+C:\Users\Али\Desktop\ballup\ballup\obj\Debug\ballup.Properties.Resources.resources
+C:\Users\Али\Desktop\ballup\ballup\obj\Debug\ballup.csproj.GenerateResource.cache
+C:\Users\Али\Desktop\ballup\ballup\obj\Debug\ballup.csproj.CoreCompileInputs.cache
+C:\Users\Али\Desktop\ballup\ballup\obj\Debug\ballup.exe
+C:\Users\Али\Desktop\ballup\ballup\obj\Debug\ballup.pdb

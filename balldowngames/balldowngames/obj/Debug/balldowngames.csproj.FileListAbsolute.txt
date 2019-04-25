@@ -1,0 +1,10 @@
+C:\Users\Али\Desktop\balldowngames\balldowngames\obj\Debug\balldowngames.csprojAssemblyReference.cache
+C:\Users\Али\Desktop\balldowngames\balldowngames\obj\Debug\balldowngames.Form1.resources
+C:\Users\Али\Desktop\balldowngames\balldowngames\obj\Debug\balldowngames.Properties.Resources.resources
+C:\Users\Али\Desktop\balldowngames\balldowngames\obj\Debug\balldowngames.csproj.GenerateResource.cache
+C:\Users\Али\Desktop\balldowngames\balldowngames\obj\Debug\balldowngames.csproj.CoreCompileInputs.cache
+C:\Users\Али\Desktop\balldowngames\balldowngames\bin\Debug\balldowngames.exe.config
+C:\Users\Али\Desktop\balldowngames\balldowngames\bin\Debug\balldowngames.exe
+C:\Users\Али\Desktop\balldowngames\balldowngames\bin\Debug\balldowngames.pdb
+C:\Users\Али\Desktop\balldowngames\balldowngames\obj\Debug\balldowngames.exe
+C:\Users\Али\Desktop\balldowngames\balldowngames\obj\Debug\balldowngames.pdb

@@ -1,0 +1,10 @@
+C:\Users\Али\Desktop\bigStar\bigStar\bin\Debug\bigStar.exe.config
+C:\Users\Али\Desktop\bigStar\bigStar\bin\Debug\bigStar.exe
+C:\Users\Али\Desktop\bigStar\bigStar\bin\Debug\bigStar.pdb
+C:\Users\Али\Desktop\bigStar\bigStar\obj\Debug\bigStar.csprojAssemblyReference.cache
+C:\Users\Али\Desktop\bigStar\bigStar\obj\Debug\bigStar.Form1.resources
+C:\Users\Али\Desktop\bigStar\bigStar\obj\Debug\bigStar.Properties.Resources.resources
+C:\Users\Али\Desktop\bigStar\bigStar\obj\Debug\bigStar.csproj.GenerateResource.cache
+C:\Users\Али\Desktop\bigStar\bigStar\obj\Debug\bigStar.csproj.CoreCompileInputs.cache
+C:\Users\Али\Desktop\bigStar\bigStar\obj\Debug\bigStar.exe
+C:\Users\Али\Desktop\bigStar\bigStar\obj\Debug\bigStar.pdb
